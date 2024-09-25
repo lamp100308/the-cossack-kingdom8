@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    background-color: #E5D9F2;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+#download {
+    height: 80px;
+    position: relative;
+    top: 650px;
+}
+#exit {
+    text-align: left;
+    position: relative;
+    top: -120px;
+}
+.main h1 {
+    position: relative;
+    top: -80px;
+}
